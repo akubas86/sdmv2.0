@@ -3,6 +3,11 @@
 *.log
 *.pyc
 *.swp
+*.xlsx
+STRIDE Logo.png
+STRIDE Logo2.png
+admin_password.csv
+
 .DS_Store
 .atom/
 .build/
